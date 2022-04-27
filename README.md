@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carlosgg3
+- 👋 Hi, I’m Carlos Geijo NWP Meteorologist at AEMET (Spain)
 - 👀 I’m interested in scientific software for weather forecasting
 - 💞️ I’m looking to collaborate on different Europe-wide projects on NWP in limited area 
 - 📫 cgeijog@aemet.es
